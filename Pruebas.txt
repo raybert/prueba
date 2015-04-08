@@ -1,2 +1,9 @@
-Hola GitHub
-Otra linea
+We have been informed that the CodePlex issue tracker has been under maintenance since Thursday, March 27, 2015. Please visit our new github repository to report issues.
+
+NOTE: PTVS 2.2 Beta is now available for testing and feedback!
+
+PTVS is a free, open source plugin that turns Visual Studio into a Python IDE. 
+
+PTVS supports CPython, IronPython, editing, browsing, Intellisense, mixed Python/C++ debugging, remote linux/MacOS debugging, profiling, IPython, Django, and cloud computing with client libraries for Windows, Linux and MacOS.  
+
+Designed, developed, and supported by Microsoft and the community.
